@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Arianna
-middle_name: 
+middle_name:
 last_name: Bienati
 email: arianna.bienati@eurac.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -294,8 +294,8 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Bienati]
+  first_name: [Arianna]
 
   style: apa
   locale: en
