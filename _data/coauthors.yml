@@ -14,18 +14,31 @@
   - firstname: ["Jennifer-Carmen", "J.-C."]
     url: https://www.eurac.edu/en/people/jennifer-carmen-frey
 
+"ferrato":
+  - firstname: ["Elena", "E."]
+    url: https://www.dlls.univr.it/?ent=persona&id=71377
+
+"brasolin":
+  - firstname: ["Paolo", "P."]
+    url: https://linktr.ee/paolo.brasolin
+
 "aprosio":
-  - firstname: ["Alessio"]
-    url: https://dh.fbk.eu/author/alessio
+  - firstname: ["Alessio", "A."]
+    url: https://dh.fbk.eu/author/alessio/
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"lopopolo":
+  - firstname: ["Olga", "O."]
+    url: https://www.eurac.edu/it/people/olga-lopopolo
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"glaznieks":
+  - firstname: ["Aivars", "A."]
+    url: https://www.eurac.edu/it/people/aivars-andris-glaznieks
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"spina":
+  - firstname: ["Stefania", "S."]
+    url: https://www.unistrapg.it/it/docenti/stefania-spina
+
+"leone":
+  - firstname: ["Andrea", "A."]
+    url: https://www.eurac.edu/it/people/andrea-renee-leone-pizzighella
+    

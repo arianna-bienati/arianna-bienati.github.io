@@ -1,9 +1,47 @@
 "LCR2022":
   url: http://www.maldura.unipd.it/lcr-2022/
-  color: "#00369f"
+  color: "#EA8D6B"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"AItLA2023":
+  url: https://aitla2023.wordpress.com/
+  color: "#EA8D6B"
 
-"Vision":
-  color: "#009f36"
+"BAAL SIG Symposium":
+  color: "#E6BC91"
+
+"AItLA2024":
+  url: https://sites.google.com/unipv.it/xxivcongressoaitla/home-page
+  color: "#E6BC91"
+
+"Ask a Linguist":
+  url: https://www.eurac.edu/en/blogs/tags/ask-a-linguist
+  color: '#FDF4D9'
+
+"Ladinia":
+  url: https://www.micura.it/it/attivita/ladinia
+  color: "#C2655F"
+
+"PHRAME":
+  url: https://www.unistrapg.it/it/phrame-phraseological-complexity-measures-in-learner-italian-closing-event
+  color: "#E6BC91"
+
+"SLI2023":
+  url: https://sites.google.com/view/sli2023
+  color: "#E6BC91"
+
+"DGfS2023":
+  url: https://dgfs2023.uni-koeln.de/en/
+  color: "#E6BC91"
+
+"Italiano a scuola":
+  url: https://italianoascuola.unibo.it/
+  color: "#C2655F"
+
+"EL.LE":
+  url: https://edizionicafoscari.unive.it/it/edizioni4/riviste/elle/
+  color: "#C2655F"
+
+"Linguisticamente":
+  url: https://www.linguisticamente.org/
+  color: "#EA8D6B"
+
