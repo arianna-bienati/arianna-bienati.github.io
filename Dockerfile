@@ -33,6 +33,7 @@ WORKDIR /srv/jekyll
 RUN gem install jekyll bundler
 
 RUN bundle install --no-cache
+RUN bundle lock --add-platform x86_64-linux
 # && rm -rf /var/lib/gems/3.1.0/cache
 EXPOSE 8080
 
